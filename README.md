@@ -1,2 +1,6 @@
 # goit_homework_10
-Contacts Book using OOP
+AddressBook using OOP
+
+`assistant.py` contains classes `AddressBook`, `Record`, `Field`, `Name` and `Phone`
+
+inner logic and CLI will have been developed
